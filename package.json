@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node server.js",
     "server": "nodemon server.js",
-    "dev": npm run server,
+    "dev": "npm run server",
     "data:import": "node seeder/seeder.js",
     "product:import": "node seeder/seederProduct.js",
     "category:import": "node seeder/seederCategory.js",
@@ -28,7 +28,6 @@
     "cors": "^2.8.5"
   },
   "devDependencies": {
-    "concurrently": "^7.0.0",
     "nodemon": "^2.0.15"
   }
 }
