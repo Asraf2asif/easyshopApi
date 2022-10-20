@@ -13,7 +13,6 @@
     "data:destroy": "node seeder/seeder.js -d"
   },
   "author": "Asraf2asif",
-  "license": "UNLICENSED",
   "private": true,
   "dependencies": {
     "axios": "^0.26.1",
