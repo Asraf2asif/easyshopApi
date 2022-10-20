@@ -1,0 +1,82 @@
+[
+    {
+        "name": "automotive",
+        "parent": "Travel"
+    },
+    {
+        "name": "fragrances",
+        "parent": "Beauty"
+    },
+    {
+        "name": "furniture",
+        "parent": "Home"
+    },
+    {
+        "name": "groceries",
+        "parent": "Grocery"
+    },
+    {
+        "name": "home-decoration",
+        "parent": "Home"
+    },
+    {
+        "name": "laptops",
+        "parent": "Electronics"
+    },
+    {
+        "name": "lighting",
+        "parent": "Electronics"
+    },
+    {
+        "name": "mens-shirts",
+        "parent": "Fashion"
+    },
+    {
+        "name": "mens-shoes",
+        "parent": "Fashion"
+    },
+    {
+        "name": "mens-watches",
+        "parent": "Fashion"
+    },
+    {
+        "name": "tops",
+        "parent": "Fashion"
+    },
+    {
+        "name": "womens-bags",
+        "parent": "Fashion"
+    },
+    {
+        "name": "womens-dresses",
+        "parent": "Fashion"
+    },
+    {
+        "name": "womens-jewellery",
+        "parent": "Fashion"
+    },
+    {
+        "name": "womens-shoes",
+        "parent": "Fashion"
+    },
+    {
+        "name": "womens-watches",
+        "parent": "Fashion"
+    },
+    {
+        "name": "sunglasses",
+        "parent": "Fashion"
+    },
+    {
+        "name": "motorcycle",
+        "parent": "Travel"
+    },
+    {
+        "name": "skincare",
+        "parent": "Beauty"
+    },
+    {
+        "name": "smartphones",
+        "parent": "Mobiles"
+    }
+]
