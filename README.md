@@ -1,4 +1,4 @@
-# EasyShop Ecommerce (working) 
+# EasyShop Ecommerce API
 Backend Api part of my Easy-to-use MERN eCommerce portfolio app with clever coding.
 
 ## Code repo
